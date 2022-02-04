@@ -67,7 +67,7 @@ body {
 
 /* @media screen and (max-width: 1126px) {
 	.main nav {
-		height: 63px;
+		height: 55px;
 	}
 } */
 /* @media screen and (max-width: 375px) {
@@ -81,7 +81,7 @@ body {
     display: flex;
     float: right;
     color: #f8cd3b;
-    margin: 2% 20%;
+    margin: 1% 3% 0;
     text-decoration: none;
 }
 .main .nav img {
